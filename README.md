@@ -6,6 +6,8 @@ The project is based on :
 - LFFD as Face Detection model [LFFD: A Light and Fast Face Detector for Edge Devices](https://arxiv.org/pdf/1904.10633 "Optional Title") 
 - EfficientNet as face mask detection model  [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946 "Optional Title")
 - SORT  as object tracker [Simple Online and Realtime Tracking](https://arxiv.org/pdf/1602.00763 "Optional Title")
+<img src="https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/healthworker.png" width="400" height="400" />
+<img src="https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/no_mask.png" width="400" height="400" />
 
 ## Repository Contents
  This repository contians :
@@ -25,7 +27,6 @@ The model has inference speed is around 20 fps on a Tesla K80 GPU(Colab)
 - [Input Video](https://drive.google.com/file/d/15YMNyFlGJxcFsD3NdEcu0Ad633T6uT0Y/view?usp=sharing)
 - [Output Video](https://drive.google.com/file/d/1CPLyWdBgSIWr2uD5vKzmWRYTusZcIJEl/view?usp=sharing)
 
-![Tux, the Linux mascot](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/healthworker.png)
 
-![Tux, the Linux mascot](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/no_mask.png)
+
 
