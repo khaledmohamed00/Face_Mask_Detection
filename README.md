@@ -21,7 +21,7 @@ The project is based on :
  Open [Face_mask_detection_01.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/Face_mask_detection_01.ipynb)  and follow through 
  
 ## Performance
-The model has inference speed is around 20 fps on a Tesla K80 GPU(Colab)
+The model has inference speed around 20 fps on a Tesla K80 GPU(Colab)
 
 ## Results
 - [Input Video](https://drive.google.com/file/d/15YMNyFlGJxcFsD3NdEcu0Ad633T6uT0Y/view?usp=sharing)
