@@ -1,6 +1,6 @@
 # Face_Mask_Detection
 
-This is Face Mask Detection model with object tracking .<br/>
+This is a Face Mask Detection model with object tracking .<br/>
 The project is based on :
 
 - LFFD as Face Detection model [LFFD: A Light and Fast Face Detector for Edge Devices](https://arxiv.org/pdf/1904.10633 "Optional Title") 
