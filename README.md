@@ -10,6 +10,7 @@ The project is based on :
 <img src="https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/healthworker.png" width="400" height="400" />
 <img src="https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/no_mask.png" width="400" height="400" />
 </p>
+
 ## Repository Contents
  This repository contians :
 - [face-mask-detection-classifier-efficient.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/face-mask-detection-classifier-efficient.ipynb): Jupyter Notebook for training the face mask detection model which is based on EfficientNet . You can find the dataset for training this model using these links [dataset 1](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)  [dataset 2](https://www.kaggle.com/omkargurav/face-mask-dataset) [dataset 2](https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset)  .
