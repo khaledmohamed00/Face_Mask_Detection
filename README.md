@@ -15,7 +15,7 @@ The project is based on :
  This repository contians :
 - [face-mask-detection-classifier-efficient.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/face-mask-detection-classifier-efficient.ipynb): Jupyter Notebook for training the face mask detection model which is based on EfficientNet . You can find the dataset for training this model using these links [dataset 1](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)  [dataset 2](https://www.kaggle.com/omkargurav/face-mask-dataset) [dataset 2](https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset)  .
 
-- [Face_mask_detection.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/Face_mask_detection.ipynb) : Jupyter Notebook that combines the Efficient model and LFFD model and SORT Tracking to detect face mask on video .
+- [Face_mask_detection.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/Face_mask_detection.ipynb) : Jupyter Notebook that combines the Efficient model , LFFD model and SORT Tracking to detect face mask on video .
 - [sort.py](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/sort.py) : the python implementation of SORT algorithm.
 - [lffd_original.ckpt](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/lffd_original.ckpt) : The pretrained LFFD model 
 - The pretrained EfficientNet model you can find it in this link  [Pretrained EfficientNet Model](https://drive.google.com/file/d/1uUGAePLdnvK24VoMd5xdAhtLTF-6CUla/view?usp=sharing)
