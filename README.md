@@ -1,6 +1,6 @@
 # Face_Mask_Detection
 
-This is Face Mask Detection model with object traking .<br/>
+This is Face Mask Detection model with object tracking .<br/>
 The project is based on :
 
 - LFFD as Face Detection model [LFFD: A Light and Fast Face Detector for Edge Devices](https://arxiv.org/pdf/1904.10633 "Optional Title") 
@@ -25,8 +25,8 @@ The model has inference speed around 20 fps on a Tesla K80 GPU(Colab)
 
 ## Results
 - [Input Video](https://drive.google.com/file/d/15YMNyFlGJxcFsD3NdEcu0Ad633T6uT0Y/view?usp=sharing)
-- [Output Video with SORT Traking](https://drive.google.com/file/d/1CPLyWdBgSIWr2uD5vKzmWRYTusZcIJEl/view?usp=sharing)
-- [Output Video without SORT Traking](https://drive.google.com/file/d/1wLehEEtZ0xtNm1LezMUfTkskxe_lk0ZR/view?usp=sharing) 
+- [Output Video with SORT Tracking](https://drive.google.com/file/d/1CPLyWdBgSIWr2uD5vKzmWRYTusZcIJEl/view?usp=sharing)
+- [Output Video without SORT Tracking](https://drive.google.com/file/d/1wLehEEtZ0xtNm1LezMUfTkskxe_lk0ZR/view?usp=sharing) 
 
 
 
