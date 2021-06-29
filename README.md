@@ -25,7 +25,8 @@ The model has inference speed around 20 fps on a Tesla K80 GPU(Colab)
 
 ## Results
 - [Input Video](https://drive.google.com/file/d/15YMNyFlGJxcFsD3NdEcu0Ad633T6uT0Y/view?usp=sharing)
-- [Output Video](https://drive.google.com/file/d/1CPLyWdBgSIWr2uD5vKzmWRYTusZcIJEl/view?usp=sharing)
+- [Output Video with SORT Traking](https://drive.google.com/file/d/1CPLyWdBgSIWr2uD5vKzmWRYTusZcIJEl/view?usp=sharing)
+- [Output Video without SORT Traking](https://drive.google.com/file/d/1wLehEEtZ0xtNm1LezMUfTkskxe_lk0ZR/view?usp=sharing) 
 
 
 
