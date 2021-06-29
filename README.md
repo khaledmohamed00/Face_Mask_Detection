@@ -20,7 +20,7 @@ The project is based on :
 - [lffd_original.ckpt](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/lffd_original.ckpt) : The pretrained LFFD model 
 - The pretrained EfficientNet model you can find it in this link  [Pretrained EfficientNet Model](https://drive.google.com/file/d/1uUGAePLdnvK24VoMd5xdAhtLTF-6CUla/view?usp=sharing)
 ## How to use the repository
- Open [Face_mask_detection.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/Face_mask_detection_01.ipynb)  Load the pretrianed models(LFFD and EfficientNet) and follow through 
+ Open [Face_mask_detection.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/Face_mask_detection_01.ipynb) ,Load the pretrianed models(LFFD and EfficientNet) and follow through 
  
 ## Performance
 The model has inference speed around 20 fps on a Tesla K80 GPU(Colab)
