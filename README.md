@@ -15,8 +15,8 @@ The project is based on :
 
 - [Face_mask_detection_01.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/Face_mask_detection_01.ipynb) : Jupyter Notebook that combines the Efficient model and LLFD model and SORT Tracking to detect face mask on video .
 - [sort.py](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/sort.py) : the python implementation of SORT algorithm.
-- [lffd_original.ckpt](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/lffd_original.ckpt) : The trained LFFD model 
-- The trained EfficientNet model you can find it in this link  [Trained EfficientNet Model](https://drive.google.com/file/d/1uUGAePLdnvK24VoMd5xdAhtLTF-6CUla/view?usp=sharing)
+- [lffd_original.ckpt](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/lffd_original.ckpt) : The pretrained LFFD model 
+- The pretrained EfficientNet model you can find it in this link  [Pretrained EfficientNet Model](https://drive.google.com/file/d/1uUGAePLdnvK24VoMd5xdAhtLTF-6CUla/view?usp=sharing)
 ## How to use the repository
  Open [Face_mask_detection_01.ipynb](https://github.com/khaledmohamed00/Face_Mask_Detection/blob/main/Face_mask_detection_01.ipynb)  and follow through 
  
